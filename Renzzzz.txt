@@ -1,0 +1,144 @@
+
+{
+productName: "Insulation",
+category: "I",
+price: "provides resistance to heat flow and lowers your heating and cooling costs. Properly insulating your home not only reduces heating and cooling costs but also improves comfort.",
+image: "Insulation.jpg",
+},
+{
+productName: "Pipe Hanger",
+category: "P",
+price: "a designed element that transfers the load from a pipe to the supporting structures. The load includes the weight of the pipe proper, the content that the pipe carries, all the pipe fittings attached to the pipe, and the pipe covering such as insulation.",
+image: "Pipe-Hanger.jpg",
+},
+{
+productName: "Refrigeration System",
+category: "R",
+price: "operate on a series of consecutive thermodynamic processes that form a cycle that returns the working substance to the same state. A thermodynamic refrigeration cycle removes heat from a low-temperature object (refrigeration) and rejects it at a higher temperature.",
+image: "Refrigeration-System.jpg",
+},
+{
+productName: "Refrigerants",
+category: "R",
+price: "a working fluid used in the refrigeration cycle of air conditioning systems and heat pumps where in most cases they undergo a repeated phase transition from a liquid to a gas and back again.",
+image: "Refrigerants.jpg",
+},
+{
+productName: "Gas Pressure Regulator",
+category: "G",
+price: "Reduce high-pressure gas in a cylinder or process line to a lower, usable level as it passes to another piece of equipment. They also maintain pressure within a gas delivery system. Gas pressure regulators are not flowing control devices; they are used to control delivery pressure only.",
+image: "Gas-Pressure-Regulator.jpg",
+}
+{
+productName: "Shutoff Valve",
+category: "S",
+price: "allow for the safe control of compressed air in pneumatic applications and are used in a range of industries. Shut-off valves are also a useful accessory to stop the air supply in controlled conditions where a process must work correctly and safely.",
+image: "Shutoff-Valve.jpg",
+},
+{
+productName: "Boiler Rooms",
+category: "B",
+price: "the place where mechanical equipment related to producing hot water and controlling the climate of your home resides. Most municipalities have strict building codes for boiler rooms.",
+image: "Boiler-Rooms.jpg",
+},
+{
+productName: "Heater Control Panel",
+category: "H",
+price: "a system with a temperature controller, temperature sensor, and a way of relaying power to the heater to create heat for a given process.",
+image: "Heater-Control-Panel.jpg",
+},
+{
+productName: "Fuel Tank",
+category: "F",
+price: "a reservoir that holds the fuel supply and helps maintain its temperature at a level below its flash point. The fuel tank also serves as an important means of dissipating heat from the fuel that is returned from the engine",
+image: "Fuel-Tank.jpg",
+},
+{
+productName: "Crankcase",
+category: "C",
+price: " It houses the entire crank mechanism including pistons, cylinders, and connecting rods. Accessories, the transmission/gearbox, and the engine control system with cylinder head are attached to the crankcase.",
+image: "Crankcase.jpg",
+},
+{
+productName: "Air Handling Unit",
+category: "A",
+price: "the heart of central air conditioning. It collects outside air and room air, removes dust and other particles from the collected air, adjusts the temperature and humidity, and then supplies comfortable and refreshing air-conditioned air into the rooms through ducts.",
+image: "Air-Handling-Unit.jpg",
+},
+{
+productName: "Sprinklers",
+category: "S",
+price: "the method of applying water in a controlled manner that is similar to rainfall. The water is distributed through a network that may consist of pumps, valves, pipes, and sprinklers. Irrigation sprinklers can be used for residential, industrial, and agricultural usage.",
+image: "Sprinklers.jpg",
+},
+{
+productName: "Non-potable Water",
+category: "N",
+price: "not treated to drinking water standards and is not meant for human consumption. Non-potable water, such as raw (untreated) water from reservoirs, is used for irrigation and other purposes, in addition to recycled water (highly-treated wastewater).",
+image: "Non-potable-water.jpg",
+},
+{
+productName: "Potable Water",
+category: "P",
+price: "comes from surface and ground sources and is treated to levels that meet state and federal standards for consumption. Water from natural sources is treated for microorganisms, bacteria, toxic chemicals, viruses, and fecal matter.",
+image: "Potable-Water.jpg",
+},
+{
+productName: "Closet Ring",
+category: "C",
+price: "installed over the drain opening in the floor directly beneath your toilet. It connects the toilet bowl to the sewer drain. A stainless steel toilet flange is typically a thin disk with several screw holes and two grooves.",
+image: "Closet-Ring.jpg",
+},
+{
+productName: "Cleanouts",
+category: "C",
+price: "location (usually on the side of the house or in the basement) where your sewer can be accessed to clear out clogs or scope the line.",
+image: "Cleanouts.jpg",
+},
+{
+productName: "Drainage",
+category: "D",
+price: "the natural or artificial removal of a surface's water and sub-surface water from an area with an excess of water.",
+image: "Drainage.jpg",
+},
+{
+productName: "Gutters",
+category: "G",
+price: "Part of a building's water discharge system. It is a trough or channel that runs around the perimeter of a roof, and collects rainwater runoff from the roof, discharging it, usually to rainwater downpipes which convey it to a drainage system.",
+image: "Gutters.jpg",
+},
+{
+productName: "Sewer",
+category: "S",
+price: "Conduit that carries wastewater from its source to a point of treatment and disposal. The wastewater may be domestic (sanitary) sewage, industrial sewage, storm runoff, or a mixture of the three.",
+image: "Sewer.jpg",
+},
+{
+productName: "Vent Pipes",
+category: "V",
+price:  "Ensure fresh air gets into the drainage pipes so that water can move from the toilet, sink, or shower when in use. When these systems are out of balance, they work against each other, causing various plumbing issues in your home",
+image: "Vent-Pipes.jpg",
+},
+{
+productName: "Storm Drainage",
+category: "S",
+price:  "It's a network of structures, channels and underground pipes that carry stormwater (rainwater) to ponds, lakes, streams and rivers.",
+image: "Storm-Drainage.jpg",
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

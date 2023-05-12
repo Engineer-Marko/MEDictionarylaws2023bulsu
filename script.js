@@ -268,7 +268,7 @@
             productName: "Refrigeration System",
             category: "R",
             price: "operate on a series of consecutive thermodynamic processes that form a cycle that returns the working substance to the same state. A thermodynamic refrigeration cycle removes heat from a low-temperature object (refrigeration) and rejects it at a higher temperature.",
-            image: "Refrigeration-System.jpg",
+            image: "Refsys.jpg",
     },
     {
             productName: "Refrigerants",

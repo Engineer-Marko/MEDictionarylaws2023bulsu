@@ -7,7 +7,7 @@
   font-family: "Comic Sans", sans-serif;
 }
 body {
-    background-image: linear-gradient( to bottom, rgba(200, 200, 0, 0.5), rgba(0, 0, 200, 0.5) ), url("WALLPAPER1.jpg");
+    background-image: linear-gradient( to bottom, rgba(200, 200, 0, 0.5), rgba(0, 0, 200, 0.5) ), url("WALL1.jpg");
 }
 .wrapper {
   width: 95%;

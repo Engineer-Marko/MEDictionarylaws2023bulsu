@@ -7,15 +7,18 @@
   font-family: "Comic Sans", sans-serif;
 }
 body {
-    background-image: linear-gradient( to bottom, rgba(200, 200, 0, 0.5), rgba(0, 0, 200, 0.5) ), url("WALL1.jpg");
+    background-image: linear-gradient( to bottom, rgba(200, 200, 0, 0.5), rgba(0, 0, 50, 0.2) ), url('WALL1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 #search-container {
   margin: 0.5em 2;
 }
 #search-container input {
   background-color: transparent;
-  width: 80%;
-  border-bottom: 3px solid #110f29;
+  width: 70%;
+  border-bottom: 2px solid #110f29;
   padding: 1em 0.1em;
   margin-left: 1.8em;
 }
@@ -23,28 +26,28 @@ body {
         border-bottom-color: #004225;
     }
     #search-container button {
-        padding: .6em 2.5em;
+        padding: .7em 2.5em;
         margin-left: .5em;
         margin-right: 2 em;
-        position:absolute;
-        background-color: #FCD71E;
+        position: absolute;
+        background-color: #FF7A1F;
         color: #000000;
         border-radius: 4px;
-        margin-top: 0.5em;
+        margin-top: 0.3em;
     }
 .button-value {
     border: 1px solid #000000;
-    padding: .6em .6em;
+    padding: .4em .4em;
     border-radius: .4em;
     display: inline-block;
     background-color: #D8E899;
     color: #000000;
     cursor: pointer;
-    margin: .3em 0;
+    margin: .2em 0;
     position:relative;
 }
     .wrapper {
-    width: 95%;
+    width: 90%;
     margin: 2em;
 }
 .active {
@@ -58,12 +61,12 @@ body {
     padding: .5em 0;
 }
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 150px 150px 0 rgba(0, 0, 0, 0.5);
     padding: 16px;
     text-align: start;
     width: 100%;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .image-container {
   text-align: center;
@@ -71,7 +74,7 @@ body {
 img {
   max-width: 200%;
   object-fit: contain;
-  height: 15em;
+  height: 9em;
 }
 .container {
   padding-top: 1em;
@@ -85,9 +88,9 @@ img {
 }
 @media screen and (max-width: 1080px) {
   img {
-    max-width: 100%;
-    object-fit: contain;
-    height: 10em;
+    max-width: 200%;
+    object-fit: cover;
+    height: 20em;
   }
   .card {
     max-width: auto;

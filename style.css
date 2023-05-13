@@ -72,9 +72,9 @@ body {
   text-align: center;
 }
 img {
-  max-width: 200%;
+  max-width: 100%;
   object-fit: contain;
-  height: 8em;
+  height: 10em;
 }
 .container {
   padding-top: 1em;
@@ -88,14 +88,15 @@ img {
 }
 @media screen and (max-width: 1080px) {
   img {
-    max-width: 200%;
+    max-width: 100%;
     object-fit: cover;
-    height: 20em;
+    height: 8em;
   }
-  .card {
-    max-width: auto;
-    margin-top: 1em;
-  }
+    .card {
+        max-width: auto;
+        object-fit: cover;
+        margin-top: 1em;
+    }
   #products {
     grid-template-columns: auto auto;
     grid-column-gap: 1em;
